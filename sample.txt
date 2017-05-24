@@ -2,3 +2,4 @@ this is a sample file.
 
 add update changed to index
 commit : to record index status
+pull get update from remote repository
