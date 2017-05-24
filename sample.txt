@@ -1,3 +1,4 @@
 this is a sample file.
 
 add update changed to index
+pull get update from remote repository
